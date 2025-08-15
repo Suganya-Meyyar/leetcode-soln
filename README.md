@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0231-power-of-two) |
 | [2491-smallest-even-multiple](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2491-smallest-even-multiple) |
 ## Bit Manipulation
