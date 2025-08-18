@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1448-maximum-69-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
