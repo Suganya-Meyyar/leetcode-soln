@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0231-power-of-two) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1448-maximum-69-number) |
+| [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2491-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0001-two-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0001-two-sum) |
+| [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
