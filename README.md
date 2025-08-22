@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2491-smallest-even-multiple) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0001-two-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
