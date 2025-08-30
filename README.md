@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0027-remove-element) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1651-shuffle-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0027-remove-element) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0541-reverse-string-ii) |
 ## Counting
