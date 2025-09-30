@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0231-power-of-two) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1448-maximum-69-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0541-reverse-string-ii) |
 ## Counting
