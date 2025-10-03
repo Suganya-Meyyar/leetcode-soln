@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0238-product-of-array-except-self) |
+| [0932-monotonic-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0932-monotonic-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1651-shuffle-string) |
