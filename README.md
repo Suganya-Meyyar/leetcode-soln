@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0812-rotate-string) |
 | [1651-shuffle-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1651-shuffle-string) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0412-fizz-buzz) |
 | [3651-transformed-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3651-transformed-array) |
 ## Counting Sort
 |  |
