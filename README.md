@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0561-array-partition) |
 | [0932-monotonic-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
+| [0978-valid-mountain-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0978-valid-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1651-shuffle-string) |
