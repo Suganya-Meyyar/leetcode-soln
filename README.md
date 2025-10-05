@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
