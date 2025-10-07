@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0231-power-of-two) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2308-divide-array-into-equal-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1651-shuffle-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2308-divide-array-into-equal-pairs) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2892-check-if-array-is-good](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2892-check-if-array-is-good) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0049-group-anagrams) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2308-divide-array-into-equal-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2892-check-if-array-is-good) |
 | [3324-split-the-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3324-split-the-array) |
 ## Greedy
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2308-divide-array-into-equal-pairs) |
 | [3324-split-the-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3324-split-the-array) |
 ## String Matching
 |  |
