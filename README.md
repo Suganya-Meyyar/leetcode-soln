@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0978-valid-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1580-shuffle-the-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1651-shuffle-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2308-divide-array-into-equal-pairs) |
