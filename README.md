@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0049-group-anagrams) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0125-valid-palindrome) |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0908-middle-of-the-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
