@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0978-valid-mountain-array) |
+| [1217-relative-sort-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1217-relative-sort-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0049-group-anagrams) |
+| [1217-relative-sort-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2308-divide-array-into-equal-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2892-check-if-array-is-good) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1217-relative-sort-array) |
 | [2892-check-if-array-is-good](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2892-check-if-array-is-good) |
 ## Simulation
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1217-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
