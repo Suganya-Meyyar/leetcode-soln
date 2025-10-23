@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0565-array-nesting) |
 | [0932-monotonic-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
 | [0978-valid-mountain-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0978-valid-mountain-array) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0014-longest-common-prefix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
