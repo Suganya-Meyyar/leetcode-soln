@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0812-rotate-string) |
 | [1651-shuffle-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1651-shuffle-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
