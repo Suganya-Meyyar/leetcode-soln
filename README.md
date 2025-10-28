@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2639-separate-the-digits-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2892-check-if-array-is-good) |
 | [3324-split-the-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3324-split-the-array) |
+| [3429-special-array-i](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3429-special-array-i) |
 | [3651-transformed-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3651-transformed-array) |
 ## Hash Table
 |  |
