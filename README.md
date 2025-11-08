@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2639-separate-the-digits-in-an-array) |
 | [2892-check-if-array-is-good](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2892-check-if-array-is-good) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3324-split-the-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3429-special-array-i) |
 | [3651-transformed-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3651-transformed-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1448-maximum-69-number) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1217-relative-sort-array) |
 | [2892-check-if-array-is-good](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2892-check-if-array-is-good) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Simulation
 |  |
 | ------- |
