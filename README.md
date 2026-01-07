@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0412-fizz-buzz) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0111-minimum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
