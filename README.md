@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0565-array-nesting](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0565-array-nesting) |
 | [0932-monotonic-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-valid-mountain-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0978-valid-mountain-array) |
 | [1217-relative-sort-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1217-relative-sort-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0977-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1217-relative-sort-array) |
 | [2892-check-if-array-is-good](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2892-check-if-array-is-good) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
