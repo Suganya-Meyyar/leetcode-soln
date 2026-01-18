@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2308-divide-array-into-equal-pairs) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3324-split-the-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3324-split-the-array) |
 | [3429-special-array-i](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3429-special-array-i) |
 | [3651-transformed-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3651-transformed-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2058-concatenation-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/2639-separate-the-digits-in-an-array) |
 | [3651-transformed-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3651-transformed-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
