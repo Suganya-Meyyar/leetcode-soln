@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0541-reverse-string-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0908-middle-of-the-linked-list) |
 ## Trie
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
