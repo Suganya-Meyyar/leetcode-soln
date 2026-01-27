@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0027-remove-element) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/1448-maximum-69-number) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Suganya-Meyyar/leetcode-soln/tree/master/0088-merge-sorted-array) |
