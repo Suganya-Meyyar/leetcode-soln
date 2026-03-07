@@ -10,10 +10,16 @@ class Solution {
             char ch = s.charAt(i);
             
             
-            if(!stack.isEmpty && stack.peek == ch){
+            if(!stack.isEmpty() && stack.peek() == ch){
                 stack.pop();
             }
+            else
+            stack.push(ch);
         }
-        return stack.toString();
+        StringBuilder str = new StringBuilder();
+        for(char c : stack){
+            str.append(c);
+        }
+        return str.toString();
     }
 }
