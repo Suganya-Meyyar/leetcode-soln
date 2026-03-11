@@ -6,7 +6,7 @@ class Solution {
        int right = 0;
     int size=0;
   for(int i=0;i<len;i++){
-    while((long)nums[i] > (long)(k*nums[left])){
+    while((long)nums[i] > (long)nums[left] * k){
             left++;
         }
         right=(i-left+1);
