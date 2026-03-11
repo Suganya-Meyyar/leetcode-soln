@@ -10,10 +10,8 @@ class Solution {
             left++;
         }
         right=(i-left+1);
-        // size = size > right ? size : right;
-        size = Math.max(size,right);
+        size = size > right ? size : right;
     }
-
     return len-size;
     }
 }
