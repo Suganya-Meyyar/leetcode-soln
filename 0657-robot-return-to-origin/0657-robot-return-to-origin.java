@@ -4,17 +4,22 @@ class Solution {
     int x=0,y=0;
     for(int i=0;i<len;i++){
         char ch = moves.charAt(i);
-        if(ch == 'U'){
+        switch(ch){
+            case 'U':
             y++;
-        }
-       else  if(ch == 'D'){
+            break;
+
+            case 'D':
             y--;
-        }
-      else if(ch == 'R'){
+            break;
+
+            case 'R':
             x++;
-        }
-        else if(ch == 'L'){
+            break;
+
+            case 'L':
             x--;
+            break;
         }
     }
     return x==0 && y==0;
