@@ -17,7 +17,7 @@ class Solution {
                 if(i==len-1)
                 res[i]=arr[i];
                 else
-                res[i]=arr[i+1];
+                res[i]=res[i+1];
             }
             else
             res[i]=arr[i];
